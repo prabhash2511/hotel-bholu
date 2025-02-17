@@ -1,0 +1,11 @@
+button {
+    padding: 10px 20px;
+    background-color: #00ff37;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  button:hover {
+    background-color: #55a7fe;
+  }
+  
