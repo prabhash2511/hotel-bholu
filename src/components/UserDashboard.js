@@ -13,12 +13,6 @@ import des1 from "../assets/des/des1.gif";
 import des2 from "../assets/des/des2.gif";
 import des3 from "../assets/des/des3.gif";
 
-
-
-
-
-
-
 const UserDashboard = () => {
   const [userName, setUserName] = useState("User");
   const [orderItems, setOrderItems] = useState([]);
